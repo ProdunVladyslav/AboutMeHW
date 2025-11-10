@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\pages\\aboutme.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\pages\\aboutme.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\pages\\aboutme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\pages\\aboutme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\model\\skills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\model\\skills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "FirstAspProj\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "FirstAspProj\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-07T17:41:59.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AboutMe.cshtml",
+              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\AboutMe.cshtml",
+              "RelativeDocumentMoniker": "FirstAspProj\\Pages\\AboutMe.cshtml",
+              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\AboutMe.cshtml",
+              "RelativeToolTip": "FirstAspProj\\Pages\\AboutMe.cshtml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T17:38:09.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AboutMe.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\AboutMe.cshtml.cs",
+              "RelativeDocumentMoniker": "FirstAspProj\\Pages\\AboutMe.cshtml.cs",
+              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\AboutMe.cshtml.cs",
+              "RelativeToolTip": "FirstAspProj\\Pages\\AboutMe.cshtml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T17:37:28.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Skills.cs",
+              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Model\\Skills.cs",
+              "RelativeDocumentMoniker": "FirstAspProj\\Model\\Skills.cs",
+              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Model\\Skills.cs",
+              "RelativeToolTip": "FirstAspProj\\Model\\Skills.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T17:35:51.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Model\\Person.cs",
+              "RelativeDocumentMoniker": "FirstAspProj\\Model\\Person.cs",
+              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Model\\Person.cs",
+              "RelativeToolTip": "FirstAspProj\\Model\\Person.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T17:35:50.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\appsettings.json",
+              "RelativeDocumentMoniker": "FirstAspProj\\appsettings.json",
+              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\appsettings.json",
+              "RelativeToolTip": "FirstAspProj\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-07T17:33:41.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FirstAspProj\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FirstAspProj\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T17:33:33.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "FirstAspProj\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\Index.cshtml",
+              "RelativeToolTip": "FirstAspProj\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T18:53:06.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "FirstAspProj\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "FirstAspProj\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T17:40:43.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Program.cs",
+              "RelativeDocumentMoniker": "FirstAspProj\\Program.cs",
+              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Program.cs",
+              "RelativeToolTip": "FirstAspProj\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:21:41.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FirstAspProj\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "FirstAspProj\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T17:33:31.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FirstAspProj\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "FirstAspProj\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T17:33:29.942Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

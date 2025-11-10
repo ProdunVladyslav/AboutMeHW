@@ -1,7 +1,11 @@
+using FirstAspProj.Model;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+
+builder.Services.AddSingleton<IPersonDataProvider, PersonDataProvider>();
 
 var app = builder.Build();
 

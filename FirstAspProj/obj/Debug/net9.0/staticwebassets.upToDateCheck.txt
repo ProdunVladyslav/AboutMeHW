@@ -1,6 +1,5 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
-wwwroot\images\photo_2025-09-18_10-16-47 (2).jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
@@ -62,6 +61,7 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\images\photo_2025-09-18_10-16-47 (2).jpg
 C:\Users\produ\source\repos\FirstAspProj\FirstAspProj\wwwroot\css\site.css
 C:\Users\produ\source\repos\FirstAspProj\FirstAspProj\wwwroot\favicon.ico
 C:\Users\produ\source\repos\FirstAspProj\FirstAspProj\wwwroot\js\site.js

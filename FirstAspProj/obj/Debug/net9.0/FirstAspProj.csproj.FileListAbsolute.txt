@@ -96,3 +96,5 @@ C:\Users\produ\source\repos\FirstAspProj\FirstAspProj\obj\Debug\net9.0\refint\Fi
 C:\Users\produ\source\repos\FirstAspProj\FirstAspProj\obj\Debug\net9.0\FirstAspProj.pdb
 C:\Users\produ\source\repos\FirstAspProj\FirstAspProj\obj\Debug\net9.0\FirstAspProj.genruntimeconfig.cache
 C:\Users\produ\source\repos\FirstAspProj\FirstAspProj\obj\Debug\net9.0\ref\FirstAspProj.dll
+C:\Users\produ\source\repos\FirstAspProj\FirstAspProj\obj\Debug\net9.0\FirstAspProj.sourcelink.json
+C:\Users\produ\source\repos\FirstAspProj\FirstAspProj\bin\Debug\net9.0\Model\persondata.json

@@ -1,0 +1,14 @@
+{
+  "Id": 1,
+  "FirstName": "John",
+  "LastName": "Doe",
+  "Profession": "Software Developer",
+  "BirthDate": "2009-12-18",
+  "Skills": [
+    {
+      "Id": 1,
+      "Title": "C#",
+      "Proficiency": 90
+    }
+  ]
+}

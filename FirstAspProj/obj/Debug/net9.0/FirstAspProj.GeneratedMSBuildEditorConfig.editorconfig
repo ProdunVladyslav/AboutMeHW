@@ -26,6 +26,18 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXRNZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/produ/source/repos/FirstAspProj/FirstAspProj/Pages/AddSkill.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkU2tpbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/produ/source/repos/FirstAspProj/FirstAspProj/Pages/EditPerson.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdFBlcnNvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/produ/source/repos/FirstAspProj/FirstAspProj/Pages/EditSkill.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdFNraWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/produ/source/repos/FirstAspProj/FirstAspProj/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -34,12 +46,28 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/produ/source/repos/FirstAspProj/FirstAspProj/Pages/People.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVvcGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/produ/source/repos/FirstAspProj/FirstAspProj/Pages/Person.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVyc29uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/produ/source/repos/FirstAspProj/FirstAspProj/Pages/PersonSkills.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVyc29uU2tpbGxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/produ/source/repos/FirstAspProj/FirstAspProj/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/produ/source/repos/FirstAspProj/FirstAspProj/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/produ/source/repos/FirstAspProj/FirstAspProj/Pages/UpsertPerson.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXBzZXJ0UGVyc29uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/produ/source/repos/FirstAspProj/FirstAspProj/Pages/_ViewImports.cshtml]

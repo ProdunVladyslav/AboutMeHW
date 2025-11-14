@@ -2,6 +2,7 @@
 @model AboutMeModel
 @{
     var person = Model.Person;
+    var skills = Model.Skills;
     ViewData["Title"] = $"{person.FirstName} {person.LastName}";
 }
 
@@ -119,13 +120,13 @@
     <h2>My skills</h2>
 
     <div class="chips">
-        @foreach (var s in person.Skills)
+        @foreach (var s in skills)
         {
             <span class="chip">@s.Title</span>
         }
     </div>
 
-    @foreach (var skill in person.Skills)
+    @foreach (var skill in skills)
     {
         var slug = skill.Title.ToLower()
         .Replace(".", "")

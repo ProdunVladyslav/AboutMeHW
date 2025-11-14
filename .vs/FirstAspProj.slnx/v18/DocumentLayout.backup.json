@@ -3,64 +3,128 @@
   "WorkspaceRootPath": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\model\\persondataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\model\\persondataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\pages\\personskills.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\pages\\personskills.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\model\\persondata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\model\\persondata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\model\\filepersondataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\model\\filepersondataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\pages\\aboutme.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\pages\\aboutme.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\model\\ipersondataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\model\\ipersondataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\model\\skills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\model\\skills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\pages\\aboutme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\pages\\aboutme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\pages\\personskills.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\pages\\personskills.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\wwwroot\\js\\confirm-delete.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\wwwroot\\js\\confirm-delete.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\pages\\person.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\pages\\person.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\model\\persondataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\model\\persondataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\pages\\people.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\pages\\people.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\pages\\aboutme.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\pages\\aboutme.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\pages\\person.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\pages\\person.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\pages\\aboutme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\pages\\aboutme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\pages\\editskill.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\pages\\editskill.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\pages\\editskill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\pages\\editskill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\pages\\addskill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\pages\\addskill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\pages\\addskill.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\pages\\addskill.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\model\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\model\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\model\\ipersondataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\model\\ipersondataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\model\\filepersondataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\model\\filepersondataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\pages\\editperson.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\pages\\editperson.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\pages\\editperson.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\pages\\editperson.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\pages\\upsertperson.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\pages\\upsertperson.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\pages\\people.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\pages\\people.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\pages\\upsertperson.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\pages\\upsertperson.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\model\\persondata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\model\\persondata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|solutionrelative:firstaspproj\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A044A5B9-3627-CC3C-3B60-EE431B87E200}|FirstAspProj\\FirstAspProj.csproj|c:\\users\\produ\\source\\repos\\firstaspproj\\firstaspproj\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -74,114 +138,359 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AboutMe.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\AboutMe.cshtml.cs",
-              "RelativeDocumentMoniker": "FirstAspProj\\Pages\\AboutMe.cshtml.cs",
-              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\AboutMe.cshtml.cs",
-              "RelativeToolTip": "FirstAspProj\\Pages\\AboutMe.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T17:37:28.81Z",
+              "DocumentIndex": 6,
+              "Title": "People.cshtml",
+              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\People.cshtml",
+              "RelativeDocumentMoniker": "FirstAspProj\\Pages\\People.cshtml",
+              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\People.cshtml",
+              "RelativeToolTip": "FirstAspProj\\Pages\\People.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAEgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T17:19:19.387Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Skills.cs",
-              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Model\\Skills.cs",
-              "RelativeDocumentMoniker": "FirstAspProj\\Model\\Skills.cs",
-              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Model\\Skills.cs",
-              "RelativeToolTip": "FirstAspProj\\Model\\Skills.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Person.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\Person.cshtml.cs",
+              "RelativeDocumentMoniker": "FirstAspProj\\Pages\\Person.cshtml.cs",
+              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\Person.cshtml.cs",
+              "RelativeToolTip": "FirstAspProj\\Pages\\Person.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T17:35:51.964Z",
+              "WhenOpened": "2025-11-14T18:29:37.916Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Model\\Person.cs",
-              "RelativeDocumentMoniker": "FirstAspProj\\Model\\Person.cs",
-              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Model\\Person.cs",
-              "RelativeToolTip": "FirstAspProj\\Model\\Person.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T17:35:50.741Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\appsettings.json",
-              "RelativeDocumentMoniker": "FirstAspProj\\appsettings.json",
-              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\appsettings.json",
-              "RelativeToolTip": "FirstAspProj\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-07T17:33:41.687Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Program.cs",
-              "RelativeDocumentMoniker": "FirstAspProj\\Program.cs",
-              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Program.cs",
-              "RelativeToolTip": "FirstAspProj\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T18:21:41.454Z",
+              "Title": "PersonSkills.cshtml",
+              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\PersonSkills.cshtml",
+              "RelativeDocumentMoniker": "FirstAspProj\\Pages\\PersonSkills.cshtml",
+              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\PersonSkills.cshtml",
+              "RelativeToolTip": "FirstAspProj\\Pages\\PersonSkills.cshtml",
+              "ViewState": "AgIAADsAAAAAAAAAAAAUwGgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T18:01:39.665Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FilePersonDataProvider.cs",
-              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Model\\FilePersonDataProvider.cs",
-              "RelativeDocumentMoniker": "FirstAspProj\\Model\\FilePersonDataProvider.cs",
-              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Model\\FilePersonDataProvider.cs",
-              "RelativeToolTip": "FirstAspProj\\Model\\FilePersonDataProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T20:43:30.338Z",
+              "DocumentIndex": 4,
+              "Title": "Person.cshtml",
+              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\Person.cshtml",
+              "RelativeDocumentMoniker": "FirstAspProj\\Pages\\Person.cshtml",
+              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\Person.cshtml",
+              "RelativeToolTip": "FirstAspProj\\Pages\\Person.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T18:29:15.991Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PersonSkills.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\PersonSkills.cshtml.cs",
+              "RelativeDocumentMoniker": "FirstAspProj\\Pages\\PersonSkills.cshtml.cs",
+              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\PersonSkills.cshtml.cs",
+              "RelativeToolTip": "FirstAspProj\\Pages\\PersonSkills.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwCUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T18:09:51.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FirstAspProj\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FirstAspProj\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwCsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T17:33:33.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "confirm-delete.js",
+              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\wwwroot\\js\\confirm-delete.js",
+              "RelativeDocumentMoniker": "FirstAspProj\\wwwroot\\js\\confirm-delete.js",
+              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\wwwroot\\js\\confirm-delete.js",
+              "RelativeToolTip": "FirstAspProj\\wwwroot\\js\\confirm-delete.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwCIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-14T19:00:45.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "PersonDataProvider.cs",
               "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Model\\PersonDataProvider.cs",
               "RelativeDocumentMoniker": "FirstAspProj\\Model\\PersonDataProvider.cs",
               "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Model\\PersonDataProvider.cs",
               "RelativeToolTip": "FirstAspProj\\Model\\PersonDataProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAcwGUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-10T20:41:27.855Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
+              "Title": "AboutMe.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\AboutMe.cshtml.cs",
+              "RelativeDocumentMoniker": "FirstAspProj\\Pages\\AboutMe.cshtml.cs",
+              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\AboutMe.cshtml.cs",
+              "RelativeToolTip": "FirstAspProj\\Pages\\AboutMe.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T17:37:28.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FirstAspProj\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "FirstAspProj\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T17:33:31.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AboutMe.cshtml",
+              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\AboutMe.cshtml",
+              "RelativeDocumentMoniker": "FirstAspProj\\Pages\\AboutMe.cshtml",
+              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\AboutMe.cshtml",
+              "RelativeToolTip": "FirstAspProj\\Pages\\AboutMe.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T17:38:09.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "FirstAspProj\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\Error.cshtml",
+              "RelativeToolTip": "FirstAspProj\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T18:53:14.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddSkill.cshtml",
+              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\AddSkill.cshtml",
+              "RelativeDocumentMoniker": "FirstAspProj\\Pages\\AddSkill.cshtml",
+              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\AddSkill.cshtml",
+              "RelativeToolTip": "FirstAspProj\\Pages\\AddSkill.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T18:22:04.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddSkill.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\AddSkill.cshtml.cs",
+              "RelativeDocumentMoniker": "FirstAspProj\\Pages\\AddSkill.cshtml.cs",
+              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\AddSkill.cshtml.cs",
+              "RelativeToolTip": "FirstAspProj\\Pages\\AddSkill.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T18:22:16.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditSkill.cshtml",
+              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\EditSkill.cshtml",
+              "RelativeDocumentMoniker": "FirstAspProj\\Pages\\EditSkill.cshtml",
+              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\EditSkill.cshtml",
+              "RelativeToolTip": "FirstAspProj\\Pages\\EditSkill.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T18:23:08.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditSkill.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\EditSkill.cshtml.cs",
+              "RelativeDocumentMoniker": "FirstAspProj\\Pages\\EditSkill.cshtml.cs",
+              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\EditSkill.cshtml.cs",
+              "RelativeToolTip": "FirstAspProj\\Pages\\EditSkill.cshtml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwCgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T18:23:15.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EditPerson.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\EditPerson.cshtml.cs",
+              "RelativeDocumentMoniker": "FirstAspProj\\Pages\\EditPerson.cshtml.cs",
+              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\EditPerson.cshtml.cs",
+              "RelativeToolTip": "FirstAspProj\\Pages\\EditPerson.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T18:28:24.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FilePersonDataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Model\\FilePersonDataProvider.cs",
+              "RelativeDocumentMoniker": "FirstAspProj\\Model\\FilePersonDataProvider.cs",
+              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Model\\FilePersonDataProvider.cs",
+              "RelativeToolTip": "FirstAspProj\\Model\\FilePersonDataProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T20:43:30.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "IPersonDataProvider.cs",
               "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Model\\IPersonDataProvider.cs",
               "RelativeDocumentMoniker": "FirstAspProj\\Model\\IPersonDataProvider.cs",
               "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Model\\IPersonDataProvider.cs",
               "RelativeToolTip": "FirstAspProj\\Model\\IPersonDataProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-10T20:40:49.375Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Model\\Skill.cs",
+              "RelativeDocumentMoniker": "FirstAspProj\\Model\\Skill.cs",
+              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Model\\Skill.cs",
+              "RelativeToolTip": "FirstAspProj\\Model\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T17:35:51.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EditPerson.cshtml",
+              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\EditPerson.cshtml",
+              "RelativeDocumentMoniker": "FirstAspProj\\Pages\\EditPerson.cshtml",
+              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\EditPerson.cshtml",
+              "RelativeToolTip": "FirstAspProj\\Pages\\EditPerson.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T18:28:17.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Model\\Person.cs",
+              "RelativeDocumentMoniker": "FirstAspProj\\Model\\Person.cs",
+              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Model\\Person.cs",
+              "RelativeToolTip": "FirstAspProj\\Model\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T17:35:50.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "FirstAspProj\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\Index.cshtml",
+              "RelativeToolTip": "FirstAspProj\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T18:53:06.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UpsertPerson.cshtml",
+              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\UpsertPerson.cshtml",
+              "RelativeDocumentMoniker": "FirstAspProj\\Pages\\UpsertPerson.cshtml",
+              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\UpsertPerson.cshtml",
+              "RelativeToolTip": "FirstAspProj\\Pages\\UpsertPerson.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T18:53:01.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "People.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\People.cshtml.cs",
+              "RelativeDocumentMoniker": "FirstAspProj\\Pages\\People.cshtml.cs",
+              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\People.cshtml.cs",
+              "RelativeToolTip": "FirstAspProj\\Pages\\People.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T17:20:13.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Program.cs",
+              "RelativeDocumentMoniker": "FirstAspProj\\Program.cs",
+              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Program.cs",
+              "RelativeToolTip": "FirstAspProj\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:21:41.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UpsertPerson.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\UpsertPerson.cshtml.cs",
+              "RelativeDocumentMoniker": "FirstAspProj\\Pages\\UpsertPerson.cshtml.cs",
+              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\UpsertPerson.cshtml.cs",
+              "RelativeToolTip": "FirstAspProj\\Pages\\UpsertPerson.cshtml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwDAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T18:55:17.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "persondata.json",
               "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Model\\persondata.json",
               "RelativeDocumentMoniker": "FirstAspProj\\Model\\persondata.json",
@@ -189,36 +498,23 @@
               "RelativeToolTip": "FirstAspProj\\Model\\persondata.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-10T20:55:08.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T20:55:08.521Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "FirstAspProj\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "FirstAspProj\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T17:33:33.484Z"
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\appsettings.json",
+              "RelativeDocumentMoniker": "FirstAspProj\\appsettings.json",
+              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\appsettings.json",
+              "RelativeToolTip": "FirstAspProj\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-07T17:33:41.687Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AboutMe.cshtml",
-              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\AboutMe.cshtml",
-              "RelativeDocumentMoniker": "FirstAspProj\\Pages\\AboutMe.cshtml",
-              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\AboutMe.cshtml",
-              "RelativeToolTip": "FirstAspProj\\Pages\\AboutMe.cshtml",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGUAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T17:38:09.424Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 29,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "FirstAspProj\\wwwroot\\css\\site.css",
@@ -230,19 +526,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "FirstAspProj\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\Index.cshtml",
-              "RelativeToolTip": "FirstAspProj\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-05T18:53:06.855Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 30,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "FirstAspProj\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -254,19 +538,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "FirstAspProj\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\_ViewStart.cshtml",
-              "RelativeToolTip": "FirstAspProj\\Pages\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T17:33:31.318Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 31,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\produ\\source\\repos\\FirstAspProj\\FirstAspProj\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "FirstAspProj\\Pages\\_ViewImports.cshtml",

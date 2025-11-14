@@ -1,0 +1,46 @@
+﻿@page "/skills/add/{personId:int}"
+@model AddSkillModel
+
+@{
+    ViewData["Title"] = "Add Skill";
+}
+
+<h2 class="mt-4 mb-3">Add Skill</h2>
+
+<div class="card shadow-sm">
+    <div class="card-body">
+
+        <form method="post">
+            <div asp-validation-summary="All" class="text-danger mb-3"></div>
+
+            <input type="hidden" asp-for="PersonId" />
+
+            <div class="mb-3">
+                <label asp-for="Skill.Title" class="form-label"></label>
+                <input asp-for="Skill.Title" class="form-control" />
+                <span asp-validation-for="Skill.Title" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Skill.Proficiency" class="form-label"></label>
+                <input asp-for="Skill.Proficiency" class="form-control" />
+                <span asp-validation-for="Skill.Proficiency" class="text-danger"></span>
+            </div>
+
+            <div class="d-flex justify-content-end">
+                <a asp-page="/PersonSkills" asp-route-id="@Model.PersonId" class="btn btn-secondary me-2">
+                    Cancel
+                </a>
+
+                <button type="submit" class="btn btn-success">
+                    Add Skill
+                </button>
+            </div>
+        </form>
+
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

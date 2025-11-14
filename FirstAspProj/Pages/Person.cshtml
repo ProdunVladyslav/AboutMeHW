@@ -1,0 +1,181 @@
+﻿@page "/person/{id:int}"
+@model PersonModel
+@{
+    var person = Model.Person;
+    var skills = Model.Skills;
+    ViewData["Title"] = $"{person.FirstName} {person.LastName}";
+}
+
+@section Scripts {
+    <script src="~/js/confirm-delete.js" asp-append-version="true"></script>
+}
+
+<style>
+    .skills {
+        max-width: 780px;
+    }
+
+        .skills h2 {
+            margin-top: 1.5rem;
+        }
+
+    .progress {
+        height: 22px;
+        background: #f1f3f5;
+        border-radius: 11px;
+        overflow: hidden;
+    }
+
+        .progress + .progress {
+            margin-top: .5rem;
+        }
+
+    .progress-bar {
+        font-weight: 600;
+        font-size: .85rem;
+        line-height: 22px;
+        color: #fff;
+        padding-left: .75rem;
+    }
+
+    .bar-redis {
+        background: #d82c20;
+    }
+
+    .bar-sql {
+        background: #2563eb;
+    }
+
+    .bar-efcore {
+        background: #6f42c1;
+    }
+
+    .bar-aspnet {
+        background: #4338ca;
+    }
+
+    .bar-adonet {
+        background: #0f766e;
+    }
+
+    .bar-vue {
+        background: #16a34a;
+    }
+
+    .bar-react {
+        background: #0891b2;
+    }
+
+    .bar-js {
+        background: #ca8a04;
+        color: #111;
+    }
+
+    .bar-ts {
+        background: #2563eb;
+    }
+
+    .bar-docker {
+        background: #0ea5e9;
+    }
+
+    .skill-row {
+        display: flex;
+        align-items: center;
+        gap: .75rem;
+        margin-bottom: .75rem;
+    }
+
+    .skill-title {
+        min-width: 190px;
+        font-weight: 600;
+    }
+
+    .bar-csharp {
+        background: #6f42c1; /* Purple */
+    }
+
+    .bar-aspnetcore {
+        background: #4338ca; /* Deep Indigo */
+    }
+
+    .bar-razorpages {
+        background: #4f46e5; /* Indigo */
+    }
+
+    .bar-html {
+        background: #e34c26; /* HTML Orange */
+    }
+
+    .bar-css {
+        background: #264de4; /* CSS Blue */
+    }
+
+    .bar-javascript {
+        background: #f7df1e; /* JS Yellow */
+        color: #111;
+    }
+
+    .skill-badge {
+        min-width: 46px;
+        text-align: right;
+        font-variant-numeric: tabular-nums;
+        color: #475569;
+    }
+
+    .chips {
+        display: flex;
+        flex-wrap: wrap;
+        gap: .5rem;
+        margin-bottom: 1rem;
+    }
+
+    .chip {
+        background: #720dbf;
+        color: #e0e7ff;
+        padding: .25rem .5rem;
+        border-radius: 6px;
+        font-size: .8rem;
+    }
+</style>
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="skills">
+    <p>
+        Hello! My name is @person.FirstName @person.LastName, and I am a @person.Profession.
+    </p>
+    <p>My birthday: @person.BirthDate.ToString("dd.MM.yyyy")</p>
+
+    <h4>@person.FirstName skills</h4>
+
+    <div class="chips">
+        @foreach (var s in skills)
+        {
+            <span class="chip">@s.Title</span>
+        }
+    </div>
+
+    @foreach (var skill in skills)
+    {
+        var slug = skill.Title.ToLower()
+        .Replace(".", "")
+        .Replace(" ", "")
+        .Replace("#", "s");
+
+        <div class="skill-row">
+            <div class="skill-title">@skill.Title</div>
+            <div class="progress" style="flex:1">
+                <div class="progress-bar bar-@slug"
+                     role="progressbar"
+                     style="width:@skill.Proficiency%"
+                     aria-valuenow="@skill.Proficiency"
+                     aria-valuemin="0"
+                     aria-valuemax="100">
+                    @skill.Proficiency%
+                </div>
+            </div>
+            <div class="skill-badge">@skill.Proficiency%</div>
+        </div>
+    }
+</div>

@@ -98,3 +98,4 @@ C:\Users\produ\source\repos\FirstAspProj\FirstAspProj\obj\Debug\net9.0\FirstAspP
 C:\Users\produ\source\repos\FirstAspProj\FirstAspProj\obj\Debug\net9.0\ref\FirstAspProj.dll
 C:\Users\produ\source\repos\FirstAspProj\FirstAspProj\obj\Debug\net9.0\FirstAspProj.sourcelink.json
 C:\Users\produ\source\repos\FirstAspProj\FirstAspProj\bin\Debug\net9.0\Model\persondata.json
+C:\Users\produ\source\repos\FirstAspProj\FirstAspProj\obj\Debug\net9.0\compressed\x2mfomcwn9-{0}-9j384j1qxx-9j384j1qxx.gz

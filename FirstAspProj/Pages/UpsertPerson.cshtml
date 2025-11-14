@@ -1,0 +1,87 @@
+﻿@page "/upsert"
+@model FirstAspProj.Pages.UpsertPersonModel
+@{
+    ViewData["Title"] = "Add or Edit Person";
+}
+
+<h2 class="text-center mt-4 mb-4">
+    @(Model.Person.Id == 0 ? "Add New Person" : "Edit Person")
+</h2>
+
+<div class="container" style="max-width: 600px;">
+    <form method="post" class="shadow-sm p-4 rounded bg-white border">
+
+        <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+        <input type="hidden" asp-for="Person.Id" />
+
+        <div class="mb-3">
+            <label asp-for="Person.FirstName" class="form-label"></label>
+            <input asp-for="Person.FirstName" class="form-control" />
+            <span asp-validation-for="Person.FirstName" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Person.LastName" class="form-label"></label>
+            <input asp-for="Person.LastName" class="form-control" />
+            <span asp-validation-for="Person.LastName" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Person.Profession" class="form-label"></label>
+            <input asp-for="Person.Profession" class="form-control" />
+            <span asp-validation-for="Person.Profession" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Person.BirthDate" class="form-label"></label>
+            <input asp-for="Person.BirthDate" class="form-control" type="date" />
+            <span asp-validation-for="Person.BirthDate" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary w-100">
+            @(Model.Person.Id == 0 ? "Create" : "Update")
+        </button>
+        <a asp-page="/People" class="btn btn-secondary w-100 mt-2">Cancel</a>
+    </form>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+
+<style>
+    body {
+        background-color: #f9fafb;
+        font-family: "Segoe UI", sans-serif;
+    }
+
+    .form-label {
+        font-weight: 600;
+        color: #333;
+    }
+
+    .form-control {
+        border-radius: 8px;
+        border: 1px solid #ccc;
+        padding: 10px;
+        transition: border-color 0.2s ease;
+    }
+
+    .form-control:focus {
+        border-color: #0d6efd;
+        box-shadow: 0 0 0 0.2rem rgba(13, 110, 253, 0.15);
+    }
+
+    .btn-primary, .btn-secondary {
+        border-radius: 8px;
+    }
+
+    .btn-secondary {
+        background-color: #6c757d;
+    }
+
+    .text-danger {
+        font-size: 0.9rem;
+    }
+</style>
